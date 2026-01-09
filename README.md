@@ -22,4 +22,4 @@ pip install -r requirements.txt
 ```
 
 3. Instale a extensão 'Jupyter' do VSCode
-4. Crie um arquivo com o nome analise.ipynb
+4. Complete o arquivo exercicios.ipynb com as respostas

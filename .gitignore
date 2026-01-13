@@ -1,2 +1,5 @@
 venv/
 .venv/
+analise.ipynb
+__pycache__/
+*.pyc
